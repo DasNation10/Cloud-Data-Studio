@@ -18,3 +18,5 @@ def config(filename="database.ini", section="postgresql"):
 
 #Commiting to Github
 #Edit by Ayush on 7/19
+#Running Test
+#Test 2
